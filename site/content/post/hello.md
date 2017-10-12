@@ -1,13 +1,15 @@
 ---
-title: Hello!
-date: 2017-10-12T11:37:53.100Z
-description: This is the intro blurb
-image: /img/2.jpg
+title: Hello
+date: 2017-10-18T09:10:32+10:00
+description: Blurb
+image: /img/3amcorlrlpk-stephen-pedersen.jpg
 ---
-This is the body
+![Hello](/img/qyftkpfqzv4-wil-stewart.jpg)
 
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec sed odio dui. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+[awe.com](awesome.com)
 
-```
-Code block!!!
-```
+**Hello!**
+
+asdfasdfasdf
+
+[Link!](https://thriveweb.com)
