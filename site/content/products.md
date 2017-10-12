@@ -2,8 +2,8 @@
 title: Our Coffee Yo!
 type: products
 page: /products.html
-image: /img/products/jumbotron.jpg
-heading: What we offer yo!
+image: /img/4.jpg
+heading: "What we offer \U0001F336"
 description: >-
   Kaldi is the ultimadte spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -97,6 +97,11 @@ pricing:
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '?'
+      price: Your choice
+    - description: Descriptions
+      items:
+        - Awesome
+      plan: Tiny
+      price: '123'
 ---
 
