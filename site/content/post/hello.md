@@ -2,7 +2,7 @@
 title: Hello!
 date: 2017-10-12T11:37:53.100Z
 description: This is the intro blurb
-image: /img/4.jpg
+image: /img/2.jpg
 ---
 This is the body
 
